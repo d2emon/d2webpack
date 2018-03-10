@@ -1,0 +1,10 @@
+{
+  "name": "d2webpack",
+  "version": "0.1.0",
+  "description": "My universal webpack config",
+  "main": "src/index.js",
+  "repository": "git@github.com:d2emon/d2webpack.git",
+  "author": "Dmitry Kutsenko <d2emonium@gmail.com>",
+  "license": "GPL-3.0",
+  "private": true
+}
